@@ -1,0 +1,109 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #000;
+  line-height: 1.6;
+}
+
+header {
+  background: #000;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+header p {
+  margin: 0.5rem 0 0;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+
+main h2 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin: 1.5rem 0 0.5rem;
+  border-bottom: 3px solid #000;
+  display: inline-block;
+  padding-bottom: 0.2rem;
+}
+
+.work-entry {
+  border-bottom: 2px solid #000;
+  padding: 1rem 0;
+}
+
+.work-entry:last-child {
+  border-bottom: none;
+}
+
+.work-entry h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.work-entry p {
+  margin: 0.2rem 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #333;
+}
+
+.quote {
+  border-left: 6px solid #000;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  font-size: 1.1rem;
+  background: #fefefe;
+}
+
+aside {
+  border-left: 3px solid #000;
+  padding-left: 1.5rem;
+}
+
+aside h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.8rem;
+}
+
+aside .social-links a {
+  display: inline-block;
+  margin-right: 0.5rem;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #000;
+}
+
+aside .social-links a:hover {
+  color: #d00;
+}
+
+main p {
+  margin: 1rem 0;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+footer {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+  text-align: center;
+  padding: 1rem;
+  border-top: 2px solid #000;
+  margin-top: 2rem;
+}
