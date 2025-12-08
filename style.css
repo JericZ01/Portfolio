@@ -252,9 +252,9 @@ span { color: #b74b4b; }
 }
 
 @keyframes words {
-  0%, 20%   { content: "Tech Support"; }
+  0%, 20%   { content: "Virtual Assistant"; }
   21%, 40%  { content: "Developer"; }
-  41%, 60%  { content: "Cybersecurity Enthusiast"; }
+  41%, 60%  { content: "Tech Support"; }
   61%, 80%  { content: "Trader"; }
   81%, 100% { content: "Gamer"; }
 }
@@ -323,6 +323,17 @@ span { color: #b74b4b; }
   font-size: 1.4rem;
 }
 
+.description-list {
+    list-style-type: disc; /* or circle, square */
+    padding-left: 20px;    /* indentation from the left */
+    margin-left: 0;        /* optional: reset default margin */
+    line-height: 1.6;      /* spacing between bullets */
+}
+
+.description-list li {
+    margin-bottom: 8px;    /* spacing between list items */
+}
+
 #services
 #services h2 {
   font-size: 2.5rem;   
@@ -331,7 +342,6 @@ span { color: #b74b4b; }
   color: #fff;        
 }
 
-/* Service Cards */
 .service-card {
   background: rgba(255, 255, 255, 0.05);
   border-radius: 1.5rem;
@@ -406,9 +416,6 @@ span { color: #b74b4b; }
   z-index: -1;
 }
 
-/* ==============================
-   EXPERIENCE SECTION
-============================== */
 #experience {
   display: flex;
   flex-direction: column;
