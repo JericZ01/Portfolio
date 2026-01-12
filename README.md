@@ -34,11 +34,7 @@ If you'd like to reach out, here are my links:
 
 Email: gerechorojero@gmail.com
 
-LinkedIn: https://linkedin.com/in/gerecho
-
 Telegram: https://t.me/jericZ01
-
-WhatsApp: +63 969 460 5023
 
 ⭐ Contributing
 
