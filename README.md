@@ -1,9 +1,6 @@
 Welcome to my portfolio website!
 This project showcases my skills, experience, and the projects I’ve worked on. It serves as my online presence where potential clients, employers, or collaborators can learn more about me and what I can do.
 
-🚀 Live Demo
-
-👉 Portfolio Website: https://gerecho.vercel.app/
 
 📌 Features
 
